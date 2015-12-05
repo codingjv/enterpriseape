@@ -1,24 +1,31 @@
+Enterprise Ape
+==============
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Powerful Software 
+=================
 
 
-Welcome to your Rails project on Cloud9 IDE!
+### Welcome to the repository 
 
-To get started, just do the following:
+Feel free to access [my portfolio] (https://enterprise-pacific-dusk-9802.herokuapp.com/invoices)
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://enterpriseape-codingjv.c9users.io/).
+> ## Example Headline 
+>
+> Example Headline Example Headline Example Headline Example Headline Example Headline 
+> 
+> Example Headline Example **Headline**.
+> 
+Example Headline Example *Headline*. 
 
-Happy coding!
-The Cloud9 IDE team
+### Crazy good software 
+* Rapid development 
++ Tested 
+- 27/7 support 
 
+### Reasons to choose us 
+1. Price
+2. Precision 
+3. Performance
 
-## Support & Documentation
+This is what ruby code would look like `puts 'Hello World'` 
 
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
